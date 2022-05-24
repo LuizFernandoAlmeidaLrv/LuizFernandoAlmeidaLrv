@@ -27,5 +27,5 @@
  
 </div>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizFernandoAlmeidaLrv&repo=LuizFernandoAlmeidaLrv)](https://github.com/LuizFernandoAlmeidaLrv/LuizFernandoAlmeidaLrv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizFernandoAlmeidaLrv&repo=LuizFernandoAlmeidaLrv)](github.com/anuraghazra/github-readme-stats)
 
