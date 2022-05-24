@@ -27,4 +27,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/LuizFernandoAlmeidaLrv/Home)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuizFernandoAlmeidaLrv&repo=LuizFernandoAlmeidaLrv&theme=react)](https://github.com/LuizFernandoAlmeidaLrv/Home)
